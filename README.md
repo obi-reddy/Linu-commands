@@ -1,4 +1,4 @@
-# Linu-commands
+# Linux-commands
 #Top 50 of the most commonly used Linux commands :
 
 1. `ls` - List files and directories in the current working directory
