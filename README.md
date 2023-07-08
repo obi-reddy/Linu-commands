@@ -1,5 +1,5 @@
 # Most used Linux-commands  
-#Top 50 of the most commonly used Linux commands :
+# Top 50 of the most commonly used Linux commands :
 
 1. `ls` - List files and directories in the current working directory
 2. `cd` - Change the current working directory
